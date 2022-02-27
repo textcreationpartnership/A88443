@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of Common-covncel for the well-ordering and establishing of the watches within this city, and payment of the beadles salary.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88443</idno>
+            <idno type="STC">Wing L2851Q</idno>
+            <idno type="STC">Thomason E71_6</idno>
+            <idno type="STC">ESTC R14868</idno>
+            <idno type="EEBO-CITATION">99859752</idno>
+            <idno type="PROQUEST">99859752</idno>
+            <idno type="VID">155453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of Common-covncel for the well-ordering and establishing of the watches within this city, and payment of the beadles salary.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, Printer to the honorable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Police --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:155453:1"/>
+            <!-- PDF PAGE 40 -->
+            <p>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:155453:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>AN ACT OF COMMON-COVNCEL FOR THE WELL-ORDERING and eſtabliſhing of the WATCHES within This CITY, and payment of the Beadles Salary.</p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Hono<g ref="char:EOLhyphen"/>rable City of <hi>London.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155453:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb facs="tcp:155453:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>AN Act of Common Councell, for the well-ordering and eſtabliſh<g ref="char:EOLhyphen"/>ing of the Watches within this Citie, and payment of the Beadles Salary.</head>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera, <hi>Guild-hall</hi> Civitatis <hi>London,</hi> 
+                  <date>nono die Octobris, <hi>1643.</hi> Annoque Regni Domi<g ref="char:EOLhyphen"/>ni noſtri <hi>Caroli,</hi> nunc Regis <hi>Angliae, &amp;c.</hi> decimo nono,</date> co<g ref="char:EOLhyphen"/>ram <hi>Iſaac Pennington</hi> Majore (ſecundo tempore) Civi<g ref="char:EOLhyphen"/>tatis <hi>London, Johan. Wollaſton</hi> Milite, &amp; Aldermanno, Majore Civitatis <hi>Londini</hi> electo, <hi>Johan. Glyn,</hi> Armiger. e<g ref="char:EOLhyphen"/>juſdem Civitatis Recordatore, <hi>Thoma Atkin, Johan. Warner, Johan. Langham, Willi. Gibbs, Willi. Bark<g ref="char:EOLhyphen"/>ley,</hi> ejuſdem Civitatis Aldermannis, &amp; <hi>Johan. Fowke &amp; Jacobo Bance,</hi> Aldermannis &amp; Vicecomit' ejuſdem Civi<g ref="char:EOLhyphen"/>tatis, necnon majore parte Communariorum de Communi Con<g ref="char:EOLhyphen"/>cilio ejuſdem Civitatis tunc &amp; ibidem Aſſemblat'.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>OR the better ordering and eſtabliſh<g ref="char:EOLhyphen"/>ment of the Watches, to be hereafter duely obſerved and kept, within this City, and Liberties thereof, and alſo for payment
+<pb n="2" facs="tcp:155453:3"/>
+               <!-- PDF PAGE 42 -->unto the Beadles of the ſeverall Wards within the ſame, a competent Salary or Wages, for and in reſpect of their ſervice to be performed, it is en<g ref="char:EOLhyphen"/>acted and agreed by this Common Councell in manner as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>First,</hi> That the number of men to watch eve<g ref="char:EOLhyphen"/>ry night in every Ward, throughout this City and Liberties, ſhall be thus appointed, <hi>viz.</hi>
+               <table>
+                  <row>
+                     <cell>Algate</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Dukes place</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Alderſgate</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Martin le Grand</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Biſhopſgate</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Broadſtreete</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Billingſgate</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Bridge within</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Baſſingſhaw</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Breadſtreete</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Cornehill</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Candlewicke</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Cordwayner</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Cheape</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Colemanſtreete</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Cripplegate within</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Cripplegate without</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Caſtle Baynard</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Dowgate</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Farringdon within</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Muckwellſtreete</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="3" facs="tcp:155453:3"/>
+                        <!-- PDF PAGE 42 -->
+Blackefryers</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Farrindon without</cell>
+                     <cell>130</cell>
+                  </row>
+                  <row>
+                     <cell>White fryers</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Bridewell Precinct</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>Bartholomew the Great</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>Bartholomew the Leſſe</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Limeſtreete</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Langborne</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Portſoken</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Queenehithe</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Towerſtreete</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Vintrey</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Walbrooke</cell>
+                     <cell>20</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That the Alderman, Deputy, and Common-Councell-men of every Ward, or the major part of them ſhall appoint a certaine place within the Ward where the Inhabitants that are ſo appointed to watch, ſhall firſt meete, and ſhall alſo appoint to what places they ſhall afterwards go unto to watch in the ſaid Ward; &amp; that the Bea<g ref="char:EOLhyphen"/>dles the day preceding every watch ſhall give to all the Conſtables of each Precinct in the Ward a liſt of the names of every Inhabitant that is to watch each night in the ſeverall diviſions of the ſaid Ward, that every Conſtable may know what perſons he is to warne to watch every ſeverall night, and that the Conſtable doe the day before his watch night warne them accordingly.</p>
+            <p>
+               <pb n="4" facs="tcp:155453:4"/>
+               <!-- PDF PAGE 43 -->
+               <hi>Thirdly,</hi> That the Beadle ſhall in the preſence of the Conſtable &amp; one of the Superviſors here<g ref="char:EOLhyphen"/>after mentioned call over the names of thoſe whoſe courſe ſhall be to watch each night reſpe<g ref="char:EOLhyphen"/>ctively, as well at the houres appointed for their meeting in the evening, as alſo at the time ap<g ref="char:EOLhyphen"/>pointed for the breaking up of the watch in the morning. And that they the Beadle and Con<g ref="char:EOLhyphen"/>ſtable, or one of them, in caſe the Superviſor be abſent at any of the ſaid times, ſhall take a note in writing, of the names of ſuch of the ſaid Inhabitants then appointed to watch as ſhall be abſent from their watch at the houres appointed, evening or morning, or any part of the night. And ſhall deliver the ſaid note the next day to the Superviſor or Superviſors, that they may proſe<g ref="char:EOLhyphen"/>cute againſt them according to the direction of the ſeventh Article hereafter expreſſed.</p>
+            <p>
+               <hi>Fourthly,</hi> That every one of the Trained Bands within this City, when his courſe ſhall be to watch, ſhall appeare, (except he be actually in ſervice in the Trained Bands) and watch in his Armes, <hi>viz.</hi> the Muſquetteers with Powder, Bul<g ref="char:EOLhyphen"/>let, and Match lighted, but not diſcharge or ſhoote off any peece during the time of his watch on paine of impriſonment, unleſſe there be juſt
+<pb n="5" facs="tcp:155453:4"/>
+               <!-- PDF PAGE 43 -->cauſe to doe it; and the Corſelets, in ſtead of a Pike, with a compleat Halbert, and a Sword: And the other watchmen, not being of the Trai<g ref="char:EOLhyphen"/>ned Bands, to watch with a good Halbert or a browne Bill.</p>
+            <p>
+               <hi>Fifthly,</hi> That the Deputy or one of the Com<g ref="char:EOLhyphen"/>mon-Councell men of every Ward, or ſuch tru<g ref="char:EOLhyphen"/>ſty perſon as they or one of them by writing un<g ref="char:EOLhyphen"/>der his or their hand ſhall appoint, ſhall have de<g ref="char:EOLhyphen"/>livered unto him out of the Cities ſtore a ſmall barrell of Gunpowder, containing ten, twenty, or thirty pounds, occording to the largeneſſe of the Ward, with a fitting proportion of Match and Bullets, and ſuch perſon to cauſe the ſaid Powder to be Papered up halfe an ounce in a Pa<g ref="char:EOLhyphen"/>per, and to deliver, or cauſe to be delivered, the ſame to every Muſquettier that doth appeare to watch, allowing two halfe ounces for two char<g ref="char:EOLhyphen"/>ges, and two yeards of Match; and that a fit pro<g ref="char:EOLhyphen"/>portion of Gunpowder, to the quantity of halfe a pound or a pound, and a quantity of Bullets be kept in a readineſſe in the Court of Guard, or ſome other convenient place every night for ſup<g ref="char:EOLhyphen"/>ply, if in caſe there be need to uſe the ſame. And the ſaid Deputy, Common-Councell-men, or ſuch other perſon as they ſhall appoint, ſhall give
+<pb n="6" facs="tcp:155453:5"/>
+               <!-- PDF PAGE 44 -->an accompt to the Alderman of the Ward for the time being of the well husbanding of the ſame ammunition when it is ſpent, and that then to receive a like quantity againe for a new ſup<g ref="char:EOLhyphen"/>ply.</p>
+            <p>
+               <hi>Sixthly,</hi> That two or more honeſt and able men ſhall be nominated and appointed in every Ward by the Alderman, Deputie, and Common-Councell-men, or the major part of them for the time being, to take care and overſee that the wat<g ref="char:EOLhyphen"/>ches appointed as aforeſaid in every VVard bee from henceforth duly kept; and that the Conſta<g ref="char:EOLhyphen"/>bles, Beadle, &amp; VVatchmen, perform their duties, and therefore for that purpoſe a Liſt ſhall be deli<g ref="char:EOLhyphen"/>vered unto the ſaid Superviſors in writing under the hands of the Alderman, Deputy, and Com<g ref="char:EOLhyphen"/>mon-Councell men of the names and ſirnames of the men ſo appointed to watch, and of the ſe<g ref="char:EOLhyphen"/>verall places where they are aſſigned unto to watch every night. VVhich ſaid Superviſors ſhall take notice of the ſaid Inhabitants that abſent themſelves at any time from watching, and like<g ref="char:EOLhyphen"/>wiſe of ſuch Conſtables and Beadle as ſhall at any time be remiſſe or negligent in performance of their duties, and from time to time ſhall preſent the names of ſuch defaulters to the Lord Mayor
+<pb n="7" facs="tcp:155453:5"/>
+               <!-- PDF PAGE 44 -->for the time being, or to ſome other of his Maje<g ref="char:EOLhyphen"/>ſties Iuſtices of the Peace, that puniſhment may be inflicted upon the ſaid defaulters, according to Law, and that the ſaid Superviſors reſpectively, if occaſion ſhall bee, ſhall proſecute and give in evidence againſt every ſuch delinquent where occaſion ſhall require: and they for their paines and care in the premiſes, ſo long as they ſhall carefully and juſtly performe their truſt commit<g ref="char:EOLhyphen"/>ted to them, and execute the ſame to the good liking of the Alderman, Deputie, and Common-Councell-men of the VVard, or the major part of them, ſhall be exempted themſelves from wratch<g ref="char:EOLhyphen"/>ing, and ſhall have ſuch an allowance as was heretofore agreed on by Act of Common-Coun<g ref="char:EOLhyphen"/>cell, namely the one halfe of the fines to bee ſet and recoved on the defaulters, or any ſuch reaſon<g ref="char:EOLhyphen"/>able allowance as ſhall bee thought fit to bee al<g ref="char:EOLhyphen"/>lowed them or any one of them by the Alderman, Deputie, and Common Councell men, or the major part of them in writing under their hands of every VVard reſpectively; which ſaid allow<g ref="char:EOLhyphen"/>ance is to be raiſed of the Inhabitant of the ſaid VVard, and not elſewhere.</p>
+            <p>
+               <hi>Seventhly,</hi> That the watches from Michael<g ref="char:EOLhyphen"/>mas to our Lady day, ſhall beginne at the lateſt
+<pb n="8" facs="tcp:155453:6"/>
+               <!-- PDF PAGE 45 -->before nine of the clocke in the night, and con<g ref="char:EOLhyphen"/>tinue untill at leaſt ſixe of the clocke in the mor<g ref="char:EOLhyphen"/>ning. And from our Lady day till <hi>Michaelmas,</hi> ſhall begin at the lateſt before ten of the clocke at night, and continue untill at leaſt foure of the clocke in t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e morning. The time of this manner of watching to begin from henceforth.</p>
+            <p>
+               <hi>Eigthly,</hi> That ſuch rates by way of Fifteene, as are herein afterwards ſet downe and expreſſed to be raiſed on the ſeverall Wards of this City, ſhall be yearely granted, and to begin at our La<g ref="char:EOLhyphen"/>dy day laſt paſt.</p>
+            <p>
+               <hi>Ninthly,</hi> For the Beadles Salary and ſuch o<g ref="char:EOLhyphen"/>ther neceſſary occaſions of the ſaid Ward, which ſaid ſeverall rates ſhall be collected and gathered by ſuch perſon and perſons, and at ſuch time and times as from time to time ſhall be appointed and directed by the Alderman, Deputy, and Common-Councell-men of every Ward, or the major part of them in writing under their hands, and the ſaid Collector or Collectors to pay all that ſhall or may be collected to the Deputy, or one of the Common-Councell men of every Ward who ſhall be by the major part of them in writing under their hands appointed to be a Treaſurer for the receiving thereof, and for the
+<pb n="9" facs="tcp:155453:6"/>
+               <!-- PDF PAGE 45 -->disburſing and paying the ſame as he ſhall be by the major part of them by ſuch writing directed to the uſes aforeſaid. And if any perſon or per<g ref="char:EOLhyphen"/>ſons ſhall refuſe to pay the ſaid rates, or any part therof aſſeſſed on him or them for the uſes afore<g ref="char:EOLhyphen"/>ſaid, that then the Collector or Collectors, with the aſſiſtance of any Conſtable that he or they ſhal call, ſhall by vertue of this Act diſtreine for the ſame, and the ſaid diſtreſſes carry away and de<g ref="char:EOLhyphen"/>taine untill ſatisfaction ſhall be made of the ſums for which they are diſtreined.</p>
+            <p>
+               <table>
+                  <head>The yeerely Rates by way of Fifteens for the ſeverall Wards for the uſes aforeſaid, are as followeth, <hi>viz.</hi>
+                  </head>
+                  <row>
+                     <cell>Algate</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Alderſgate</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Biſhopſgate</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Broadſtreet</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Billingſgate</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Bridge within</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Baſſingſhaw</cell>
+                     <cell>3½</cell>
+                  </row>
+                  <row>
+                     <cell>Breadſtreet</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Cornhill</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Candlewick</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Cordwayner</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cheape</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Colemanſtreet</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Creeplegate within</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Creeplegate without</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="10" facs="tcp:155453:7"/>
+                        <!-- PDF PAGE 46 -->
+Caſtlebaynard</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Dowgate</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Farringdon within</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Farringdon without, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Saint Sepulchers</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Fleetſtreet</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Saint Andrewes</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Limeſtreet</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Langborne</cell>
+                     <cell>2½</cell>
+                  </row>
+                  <row>
+                     <cell>Portſoaken</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Queenehithe</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Tower</cell>
+                     <cell>2½</cell>
+                  </row>
+                  <row>
+                     <cell>Vintrey</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Walbrooke</cell>
+                     <cell>2</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And in caſe any of the aforeſaid wards ſhall deſire to pay their Beadle or Beadles Salaries any other way then by way of rates as afore<g ref="char:EOLhyphen"/>ſaid, and ſhall certifie that their deſire unto the Common-Councell at or before the next Com<g ref="char:EOLhyphen"/>mon-Councell to be holden after Saint <hi>Thomas</hi> day next, this Court approving and ſettling of the ſame on ſuch wards in ſuch a way and man<g ref="char:EOLhyphen"/>ner as they ſhall ſo deſire, doth think fit that ſuch ward ſhall be exempted from raiſing or paying the ſaid rates in their ſeverall wards as aforeſaid.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155453:7"/>
+            <!-- PDF PAGE 46 -->
+         </div>
+      </body>
+   </text>
+</TEI>
